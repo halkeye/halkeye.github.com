@@ -14,13 +14,13 @@
           "local_path":"index.html"
       }
   },
-  "permissions": [
-  ],
+  "permissions": {
+  },
   "developer": {
     "name": "Gavin Mogan",
     "url": "http://www.kodekoan.com"
   },
   "installs_allowed_from": ["*"],
-  "appcache_path": "/cache.manifest",
+  "appcache_path": "/manifest.appcache",
   "default_locale": "en"
 }
